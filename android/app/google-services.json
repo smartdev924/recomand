@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "116978822118",
+    "project_id": "localservices-5799c",
+    "storage_bucket": "localservices-5799c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116978822118:android:2e7105e7ea4d0182ec0427",
+        "android_client_info": {
+          "package_name": "com.example.localservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116978822118-ncibjh5omi49s0qsa8i7sh2fouds96dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOpYyFfWb2wZmYB2hfRzk6Z1oYeXEn7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116978822118-ncibjh5omi49s0qsa8i7sh2fouds96dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116978822118-3cuu5skp6ghfv45pr77nlh52es7p9enu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.localservice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116978822118:android:00aaf0057245c338ec0427",
+        "android_client_info": {
+          "package_name": "ro.recomand.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116978822118-ncibjh5omi49s0qsa8i7sh2fouds96dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOpYyFfWb2wZmYB2hfRzk6Z1oYeXEn7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116978822118-ncibjh5omi49s0qsa8i7sh2fouds96dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116978822118-3cuu5skp6ghfv45pr77nlh52es7p9enu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.localservice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

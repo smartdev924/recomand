@@ -1,0 +1,25 @@
+name: recomand 
+version: '1.0.7'
+summary: recomand app
+description: RECOMAND App este aplicatia perfecta pentru a gasi rapid si usor profesionisti locali de incredere pentru servicii locale precum reparatii, renovari, curatenie, electricieni si instalatori. Incearca aplicatia noastra pentru a primi cinci oferte gratuite pentru fiecare cerere publicata, astfel incat sa poti compara si alege cea mai buna oferta pentru tine. Cu RECOMAND, gasirea unui profesionist potrivit devine o treaba simpla si mai sigura.
+icon: snap/gui/recomand.png
+
+confinement: strict
+base: core18
+grade: stable
+
+apps:
+  recomand:
+    command: recomand
+    extensions:
+      - flutter-stable
+    plugs:
+    - network
+
+parts:
+  recomand:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart
+
+

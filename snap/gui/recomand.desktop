@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=recomand
+Comment=recomand app is for sellers and buyers
+Exec=recomand
+Icon=${SNAP}/meta/gui/recomand.png
+Terminal=false
+Type=Application
+Categories=Productivity
