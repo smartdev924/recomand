@@ -1,5 +1,13 @@
 # recomand.app
 
+### publish url
+
+https://play.google.com/store/apps/details?id=ro.recomand.app
+https://apps.apple.com/it/app/recomand/id6446204407?l=en
+https://s.localservices.app/download/recomand.exe
+https://s.localservices.app/download/recomand.dmg
+https://snapcraft.io/recomand
+
 ### Build release
 
 '''
@@ -30,3 +38,5 @@ creating config.json and app_icon.icns file in installlers/dmg_creator folder in
 
 - appdmg <config-json-path> <output-dmg-path-with-file-name>
 ex: appdmg ./config.json ./recomand.dmg
+
+
